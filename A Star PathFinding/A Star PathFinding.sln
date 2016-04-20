@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A Star PathFinding.CSharp", "A Star PathFinding.CSharp.csproj", "{10C459AD-7F41-8EA7-654C-D3AB1DB29374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C459AD-7F41-8EA7-654C-D3AB1DB29374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C459AD-7F41-8EA7-654C-D3AB1DB29374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C459AD-7F41-8EA7-654C-D3AB1DB29374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C459AD-7F41-8EA7-654C-D3AB1DB29374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
